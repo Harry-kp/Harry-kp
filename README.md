@@ -5,7 +5,7 @@
 
 <!-- Quick Tagline -->
 <p align="center">
-  <strong>🚀 Software Engineer • Open Source Builder • Minimalist at Heart</strong>
+  <strong>🚀 AI Backend Engineer • Open Source Builder • Minimalist at Heart</strong>
 </p>
 
 <p align="center">
@@ -49,6 +49,18 @@ Auto-skip questions + Telegram alerts when answerable questions appear. Smart ra
 
 ---
 
+## 💼 Experience
+
+| Role | Company | Period |
+|------|---------|--------|
+| **AI Backend Engineer** | [BrowserStack](https://browserstack.com) | Dec 2024 - Present |
+| **Software Engineer** | [PROCOL](https://procol.io) | Jun 2022 - Dec 2024 |
+| **SDE Intern** | HashedIn by Deloitte | Jan 2022 - Jun 2022 |
+
+Currently building **AI Accessibility features** at BrowserStack. Previously scaled auction systems with Ruby on Rails at PROCOL.
+
+---
+
 ## 💡 Philosophy
 
 ```yaml
@@ -63,17 +75,6 @@ stack:
   databases: [PostgreSQL, Redis]
   tools: [Docker, Git, Vim]
 ```
-
----
-
-## 💼 Experience
-
-| Role | Company | Period |
-|------|---------|--------|
-| **Software Engineer** | [PROCOL](https://procol.io) | 2022 - Present |
-| **SDE Intern** | [HashedIn by Deloitte](https://hashedin.com) | 2022 |
-
-Building scalable auction systems with Ruby on Rails & PostgreSQL. Led SAP integration that drove 25% increase in product value.
 
 ---
 
