@@ -10,8 +10,8 @@
 
 <p align="center">
   <a href="https://harry-kp.github.io/mercury/"><img src="https://img.shields.io/badge/Mercury-API_Client-00ff88?style=for-the-badge" alt="Mercury"/></a>
+  <a href="https://www.youtube.com/@harrykp007"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/></a>
   <a href="https://www.linkedin.com/in/harshit-chaudhary-4ab0a01aa/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="mailto:chaudharyharshit9@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 </p>
 
 ---
@@ -46,6 +46,18 @@ Auto-skip questions + Telegram alerts when answerable questions appear. Smart ra
 </td>
 </tr>
 </table>
+
+---
+
+## 🎬 YouTube Channel
+
+<a href="https://www.youtube.com/@harrykp007">
+  <img src="https://img.shields.io/badge/Subscribe-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Subscribe"/>
+</a>
+
+**[@HarryKp](https://www.youtube.com/@harrykp007)** — Tutorials on Python, automation, and programming tips for developers.
+
+> *"Helping you improve your skills through demos and practical examples."*
 
 ---
 
