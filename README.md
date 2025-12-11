@@ -1,106 +1,106 @@
-<!-- Header Section -->
+<!-- Animated Header -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Harshit%20Chaudhary&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Building%20fast,%20minimal,%20developer-first%20tools&descSize=16&descAlignY=52"/>
+</div>
+
+<!-- Quick Tagline -->
 <p align="center">
-  <img src="https://github.com/Harry-kp/Harry-kp/blob/main/assets/header.gif" alt="Header GIF" />
+  <strong>🚀 Software Engineer • Open Source Builder • Minimalist at Heart</strong>
 </p>
 
-<h1 align="center">Hi there 👋, I'm Harshit Chaudhary</h1>
-<h3 align="center">Backend Developer | Competitive Programmer </h3>
-
-<!-- Profile Views Counter -->
-<p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=harry-kp&label=Profile%20views&color=0e75b6&style=flat" alt="harry-kp" />
+<p align="center">
+  <a href="https://harry-kp.github.io/mercury/"><img src="https://img.shields.io/badge/Mercury-API_Client-00ff88?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9IiNmZmYiIHN0cm9rZS13aWR0aD0iMiIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIj48cGF0aCBkPSJtOCAzIDQgOCA1LTUgNSAxNUg2bC0zLTkgNS01eiIvPjwvc3ZnPg==" alt="Mercury"/></a>
+  <a href="https://www.linkedin.com/in/harshit-chaudhary-4ab0a01aa/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:chaudharyharshit9@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 </p>
 
-<!-- Links Section -->
-### Links
+---
 
-[LinkedIn](https://www.linkedin.com/in/harshit-chaudhary-4ab0a01aa/) | [Youtube](https://www.youtube.com/@harrykp007) | [CodeChef](https://www.codechef.com/users/harrykp) | [Codeforces](https://codeforces.com/profile/harry_kp) | [Stopstalk](https://www.stopstalk.com/user/profile/harrykp) | [Leetcode](https://leetcode.com/Harrykp) |
+## 🎯 What I'm Building
 
-<!-- GitHub Trophies -->
-<p align="left">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=harry-kp" alt="harry-kp" />
-  </a>
+<table>
+<tr>
+<td width="50%">
+
+### [Mercury](https://github.com/Harry-kp/mercury) 
+**API Client for Purists**
+
+<img src="https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white"/> <img src="https://img.shields.io/badge/5MB-00ff88?style=flat"/> <img src="https://img.shields.io/badge/<50ms_startup-00ff88?style=flat"/>
+
+A blazing-fast, keyboard-first alternative to Postman & Insomnia. No bloat, no accounts, no telemetry.
+
+<a href="https://github.com/Harry-kp/mercury"><img src="https://img.shields.io/github/stars/Harry-kp/mercury?style=social" alt="Stars"/></a>
+
+</td>
+<td width="50%">
+
+### What I Care About
+
+```yaml
+philosophy:
+  - Ship fast, iterate faster
+  - Less is more
+  - Developer experience matters
+  - Native > Electron
+  
+stack:
+  primary: [Ruby on Rails, Rust, Python]
+  databases: [PostgreSQL, Redis]
+  tools: [Docker, Git, Vim]
+```
+
+</td>
+</tr>
+</table>
+
+---
+
+## 💼 Experience
+
+<table>
+<tr>
+<td>
+
+**Software Engineer** @ [PROCOL](https://procol.io) `2022 - Present`
+
+Building scalable auction systems with Ruby on Rails & PostgreSQL. Led SAP integration that drove 25% increase in product value.
+
+</td>
+<td>
+
+**SDE Intern** @ [HashedIn by Deloitte](https://hashedin.com) `2022`
+
+Designed APIs for Parking Management System with Django + JWT auth.
+
+</td>
+</tr>
+</table>
+
+---
+
+## 📊 Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=harry-kp&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00ff88&icon_color=00ff88&text_color=FFFFFF" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=harry-kp&theme=radical&hide_border=true&background=0D1117&stroke=00ff88&ring=00ff88&fire=00ff88&currStreakLabel=00ff88" height="165"/>
 </p>
 
-### About Me
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harry-kp&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00ff88&text_color=FFFFFF" height="165"/>
+</p>
 
-- 🎓 **Education**: B.Tech in Computer Science from AKGEC, Ghaziabad (2018-22) | CGPA: 8.36
-- 🏫 **Class XII**: S.G.R.R PUBLIC SCHOOL, Ghaziabad (2018) | Percentage: 96.40%
-- 💻 **Current Position**: Software Engineer (Backend) at PROCOL, Gurgaon
-- 🌐 [**Check out my personal site**](https://harry-kp.github.io/)
-- 📧 **Reach me at**: [chaudharyharshit9@gmail.com](mailto:chaudharyharshit9@gmail.com)
+---
 
-<!-- Short Intro Section -->
-### Short Intro
+## 🏆 Competitive Programming
 
-As a backend developer, I specialize in building scalable and high-performance web applications using Ruby on Rails and Django. I am passionate about crafting clean and maintainable code, consistently striving to improve code quality and developer productivity. Providing guidance and support to my juniors, I aim to help them develop their technical skills.
+<p align="center">
+  <a href="https://www.codechef.com/users/harrykp"><img src="https://img.shields.io/badge/CodeChef-1900_Rating-brown?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef"/></a>
+  <a href="https://leetcode.com/Harrykp"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/></a>
+  <a href="https://codeforces.com/profile/harry_kp"><img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=Codeforces&logoColor=white" alt="Codeforces"/></a>
+</p>
 
-If you're looking for a dedicated backend developer with experience in Ruby on Rails and Django, I would love to connect and discuss how I can contribute to the success of your project.
+---
 
-<!-- Skills Section -->
-### Skills
-
-#### General
-- Web Development (Backend)
-- Competitive Programming
-
-#### Programming Languages
-Python • Ruby • C/C++ • Javascript • SQL • HTML/CSS
-
-#### Tools and Libraries
-Django • Ruby on Rails • Scrapy • numpy • pandas • Docker (Familiar: React.js, SpringBoot)
-
-#### Coursework
-- Design and Analysis of Algorithms
-- Operating Systems
-- Computer Networks
-- DBMS
-
-<!-- Achievements Section -->
-### Achievements
-
-- Felicitated by former HRD Minister Prakash Javadekar in GUN GAURAV SAMMAN-2018
-- Codechef: Highest rating 1900, and secured Rank 159,302,357 in the rated contest
-
-<!-- Experience Section -->
-### Experience
-
-#### PROCOL | Software Engineer (Backend) | June 2022 - Present | Gurgaon
-- Developed and maintained a Ruby on Rails and PostgreSQL backend system for large-scale auctions and bids.
-- Contributed to feature enhancements, including SAP integration, resulting in a 25% increase in product value and successful onboarding of new clients.
-- Improved code maintainability and developer productivity through consistent code cleanup and strong type checking.
-- Mentored interns and conducted code reviews to ensure high-quality, clean code was consistently delivered.
-- Tech Stack: Ruby on Rails, PostgreSQL
-
-#### HASHEDIN BY DELOITTE | SDE Intern | January 2022 - June 2022 | Bangalore
-- Designed and implemented the API for Parking Management System.
-- Used Swagger for API documentation.
-- Ensured only authorized persons get access to the API by using JWT Authentication.
-- Performed Unit testing, fixed bugs, and handled new functionalities.
-- Tech Stack: Django Rest Framework, PostgreSQL
-
-<!-- Projects Section -->
-### Projects
-
-#### SARKARI LINKS WEBSITE
-- A website that stores links related to government recruitment exams, admit cards, results, syllabus, and many more in one place.
-- An automation script fetches the links (using Scrapy framework) from similar sites and updates the database.
-- Used Django for backend and PostgreSQL as a database.
-
-#### CHEGGBOT
-- Developed and published a Python automation script called Cheggbot for Chegg Q&A experts.
-- Script skips questions based on user-defined keywords and sends an alert on Telegram when an answerable question is found.
-- Utilized randomization in time while skipping to protect the user from getting blocked and sleeps for a longer period when the queue becomes empty.
-- [GitHub Link - CheggBot](https://github.com/Harry-kp/cheggbot)
-
-#### INSTAGRAM TRAITOR FINDER
-- A Python script that takes the Instagram Id and Password of the user and returns the list of Instagram accounts that are not following back.
-- Used Selenium in Python for automation.
-- [GitHub Link - Instabot](https://github.com/Harry-kp/Instabot)
-
-#### SHOPREAL
-- A Firefox extension that hides the product images from the E-commerce site and shows the original ones i.e. Review images.
-- [Firefox Extension Link](https://addons.mozilla.org/en-US/firefox/addon/shopreal/) | [GitHub Link](https://github.com/Harry-kp/ShopReal)
-
-Feel free to connect with me or explore my work on the provided links!
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
+</div>
