@@ -34,14 +34,14 @@ A blazing-fast, keyboard-first alternative to Postman & Insomnia. No bloat, no a
 </td>
 <td width="50%">
 
-### [CheggBot](https://github.com/Harry-kp/cheggbot) 🤖
+### [Vortix](https://github.com/Harry-kp/vortix) 🤖
 **Automation for Q&A Experts**
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/Selenium-43B02A?style=flat&logo=selenium&logoColor=white"/>
 
 Auto-skip questions + Telegram alerts when answerable questions appear. Smart rate-limiting to avoid blocks.
 
-[![Stars](https://img.shields.io/github/stars/Harry-kp/cheggbot?style=social)](https://github.com/Harry-kp/cheggbot)
+[![Stars](https://img.shields.io/github/stars/Harry-kp/vortix?style=social)](https://github.com/Harry-kp/vortix)
 
 </td>
 </tr>
