@@ -22,6 +22,18 @@
 <tr>
 <td width="50%">
 
+### [Vortix](https://github.com/Harry-kp/vortix) 🌀
+**VPN Manager for the Terminal**
+
+<img src="https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white"/> <img src="https://img.shields.io/badge/TUI-00ff88?style=flat"/> <img src="https://img.shields.io/badge/WireGuard-88171A?style=flat&logo=wireguard&logoColor=white"/> <img src="https://img.shields.io/badge/OpenVPN-EA7E20?style=flat&logo=openvpn&logoColor=white"/>
+
+Beautiful TUI for managing VPN connections. Real-time telemetry, leak detection, kill switch. No GUI bloat.
+
+[![Stars](https://img.shields.io/github/stars/Harry-kp/vortix?style=social)](https://github.com/Harry-kp/vortix)
+
+</td>
+<td width="50%">
+
 ### [Mercury](https://github.com/Harry-kp/mercury) ⚡
 **API Client for Purists**
 
@@ -30,18 +42,6 @@
 A blazing-fast, keyboard-first alternative to Postman & Insomnia. No bloat, no accounts, no telemetry.
 
 [![Stars](https://img.shields.io/github/stars/Harry-kp/mercury?style=social)](https://github.com/Harry-kp/mercury)
-
-</td>
-<td width="50%">
-
-### [Vortix](https://github.com/Harry-kp/vortix) 🌀
-**VPN Manager for the Terminal**
-
-<img src="https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white"/> <img src="https://img.shields.io/badge/TUI-00ff88?style=flat"/> <img src="https://img.shields.io/badge/WireGuard-88171A?style=flat&logo=wireguard&logoColor=white"/>
-
-Beautiful TUI for managing VPN connections. Real-time telemetry, leak detection, kill switch. No GUI bloat.
-
-[![Stars](https://img.shields.io/github/stars/Harry-kp/vortix?style=social)](https://github.com/Harry-kp/vortix)
 
 </td>
 </tr>
