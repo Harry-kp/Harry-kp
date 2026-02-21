@@ -4,8 +4,8 @@
 </div>
 
 <p align="center">
-  <a href="https://harrykp.tech"><img src="https://img.shields.io/badge/Portfolio-harrykp.tech-00ff88?style=for-the-badge" alt="Portfolio"/></a>
-  <a href="https://harrykp.tech/blog"><img src="https://img.shields.io/badge/Blog-Distributed_Systems-0077B5?style=for-the-badge" alt="Blog"/></a>
+  <a href="https://harrykp.vercel.app"><img src="https://img.shields.io/badge/Portfolio-harrykp.vercel.app-00ff88?style=for-the-badge" alt="Portfolio"/></a>
+  <a href="https://harrykp.vercel.app/blog"><img src="https://img.shields.io/badge/Blog-Distributed_Systems-0077B5?style=for-the-badge" alt="Blog"/></a>
   <a href="https://www.linkedin.com/in/harshit-chaudhary-4ab0a01aa/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="https://www.youtube.com/@harrykp007"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/></a>
 </p>
