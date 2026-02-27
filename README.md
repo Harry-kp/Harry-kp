@@ -56,30 +56,6 @@ Blazing-fast, keyboard-first alternative to Postman. No bloat, no accounts, no t
 [![Stars](https://img.shields.io/github/stars/Harry-kp/mercury?style=social)](https://github.com/Harry-kp/mercury)
 
 </td>
-<td width="50%">
-
-### [Nebula](https://github.com/Harry-kp/nebula)
-**BitTorrent Client from Scratch**
-
-<img src="https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white"/> <img src="https://img.shields.io/badge/Networking-333?style=flat"/>
-
-Full BitTorrent protocol implementation — tracker communication, peer handshakes, piece management, concurrent downloads.
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### [A2A Trace](https://github.com/Harry-kp/a2a-trace)
-**Multi-Agent System Debugger**
-
-<img src="https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white"/> <img src="https://img.shields.io/badge/AI_Agents-333?style=flat"/>
-
-Visual debugger for Agent-to-Agent protocol — real-time tracing and visualization of inter-agent communication flows.
-
-</td>
-<td width="50%">
-</td>
 </tr>
 </table>
 
