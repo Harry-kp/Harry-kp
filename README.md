@@ -46,6 +46,18 @@ Blazing-fast, keyboard-first alternative to Postman. No bloat, no accounts, no t
 <tr>
 <td width="50%">
 
+### [AFK](https://github.com/Harry-kp/afk)
+**Break Reminder for Developers**
+
+<img src="https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white"/> <img src="https://img.shields.io/badge/Tauri-24C8D8?style=flat&logo=tauri&logoColor=white"/> <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black"/>
+
+Follows the 20-20-20 rule with fullscreen reminders, statistics dashboard, and health exercises. Under 5 MB. [Website](https://afk-app.vercel.app)
+
+[![Stars](https://img.shields.io/github/stars/Harry-kp/afk?style=social)](https://github.com/Harry-kp/afk)
+
+</td>
+<td width="50%">
+
 ### [Nebula](https://github.com/Harry-kp/nebula)
 **BitTorrent Client from Scratch**
 
@@ -54,6 +66,8 @@ Blazing-fast, keyboard-first alternative to Postman. No bloat, no accounts, no t
 Full BitTorrent protocol implementation — tracker communication, peer handshakes, piece management, concurrent downloads.
 
 </td>
+</tr>
+<tr>
 <td width="50%">
 
 ### [A2A Trace](https://github.com/Harry-kp/a2a-trace)
@@ -63,6 +77,8 @@ Full BitTorrent protocol implementation — tracker communication, peer handshak
 
 Visual debugger for Agent-to-Agent protocol — real-time tracing and visualization of inter-agent communication flows.
 
+</td>
+<td width="50%">
 </td>
 </tr>
 </table>
@@ -92,7 +108,7 @@ Visual debugger for Agent-to-Agent protocol — real-time tracing and visualizat
 ```yaml
 languages: [Go, Rust, Ruby, Python, C++, TypeScript]
 infrastructure: [Kubernetes, Docker, AWS, Redis, PostgreSQL]
-frameworks: [Rails, Next.js, gRPC]
+frameworks: [Rails, Next.js, Tauri, gRPC]
 ai_ml: [OpenAI, Claude, Embeddings, LLM Pipelines]
 ```
 
