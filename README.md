@@ -32,20 +32,6 @@ TUI for managing VPN connections with real-time telemetry, IPv6/DNS leak detecti
 </td>
 <td width="50%">
 
-### [Mercury](https://github.com/Harry-kp/mercury)
-**API Client for Purists**
-
-<img src="https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white"/> <img src="https://img.shields.io/badge/5MB-00ff88?style=flat"/> <img src="https://img.shields.io/badge/<50ms_startup-00ff88?style=flat"/>
-
-Blazing-fast, keyboard-first alternative to Postman. No bloat, no accounts, no telemetry.
-
-[![Stars](https://img.shields.io/github/stars/Harry-kp/mercury?style=social)](https://github.com/Harry-kp/mercury)
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
 ### [AFK](https://github.com/Harry-kp/afk)
 **Break Reminder for Developers**
 
@@ -54,6 +40,20 @@ Blazing-fast, keyboard-first alternative to Postman. No bloat, no accounts, no t
 Follows the 20-20-20 rule with fullscreen reminders, statistics dashboard, and health exercises. Under 5 MB. [Website](https://afk-app.vercel.app)
 
 [![Stars](https://img.shields.io/github/stars/Harry-kp/afk?style=social)](https://github.com/Harry-kp/afk)
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### [Mercury](https://github.com/Harry-kp/mercury)
+**API Client for Purists**
+
+<img src="https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white"/> <img src="https://img.shields.io/badge/5MB-00ff88?style=flat"/> <img src="https://img.shields.io/badge/<50ms_startup-00ff88?style=flat"/>
+
+Blazing-fast, keyboard-first alternative to Postman. No bloat, no accounts, no telemetry.
+
+[![Stars](https://img.shields.io/github/stars/Harry-kp/mercury?style=social)](https://github.com/Harry-kp/mercury)
 
 </td>
 <td width="50%">
