@@ -1,6 +1,4 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Harshit%20Chaudhary&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Backend%20Engineer%20%7C%20Distributed%20Systems%20%26%20AI%20Infrastructure&descSize=16&descAlignY=52"/>
-</div>
+## Hey, I'm Harshit
 
 <p align="center">
   <a href="https://harrykp.vercel.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
@@ -8,15 +6,11 @@
   <a href="https://harrykp.vercel.app/blog"><img src="https://img.shields.io/badge/Blog-FF5722?style=for-the-badge&logo=hashnode&logoColor=white" alt="Blog"/></a>
 </p>
 
----
-
-Backend engineer at [BrowserStack](https://browserstack.com) building AI accessibility agents covering 40+ WCAG criteria. I design LLM inference pipelines, ship developer tools in Rust, and contribute to open source infrastructure projects.
+Backend engineer at [BrowserStack](https://browserstack.com) building AI accessibility agents. I design LLM inference pipelines, ship developer tools in Rust, and contribute to open source infrastructure projects.
 
 <p align="center">
   <img src="https://img.shields.io/github/stars/Harry-kp?label=Total%20Stars&style=flat&color=00ff88&logo=github" alt="Total Stars"/>
   <img src="https://img.shields.io/badge/dynamic/json?color=blue&label=Merged%20PRs&query=%24.total_count&url=https%3A%2F%2Fapi.github.com%2Fsearch%2Fissues%3Fq%3Dauthor%253AHarry-kp%2Btype%253Apr%2Bis%253Amerged%2B-user%253AHarry-kp&logo=git&logoColor=white" alt="Merged PRs"/>
-  <img src="https://img.shields.io/badge/P90%20Latency-20s%20→%2010.1s-00ff88?style=flat" alt="Latency"/>
-  <img src="https://img.shields.io/badge/False%20Positives--64%25-00ff88?style=flat" alt="FP Reduction"/>
   <img src="https://komarev.com/ghpvc/?username=harry-kp&label=Profile%20views&color=00ff88&style=flat" alt="Profile views"/>
 </p>
 
@@ -146,6 +140,4 @@ Break reminder for developers. 20-20-20 rule, statistics dashboard, global short
   <a href="https://leetcode.com/Harrykp"><img src="https://img.shields.io/badge/dynamic/json?color=FFA116&label=LeetCode&query=%24.solvedProblem&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2FHarrykp&logo=leetcode&logoColor=FFA116&style=flat" alt="LeetCode"/></a>
 </p>
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
-</div>
+
