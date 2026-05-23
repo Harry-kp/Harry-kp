@@ -138,7 +138,7 @@ Break reminder for developers. 20-20-20 rule, statistics dashboard, global short
 ---
 
 <p align="center">
-  <a href="https://leetcode.com/Harrykp"><img src="https://img.shields.io/badge/dynamic/json?color=FFA116&label=LeetCode&query=%24.solvedProblem&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2FHarrykp&logo=leetcode&logoColor=FFA116&style=flat" alt="LeetCode"/></a>
+  <a href="https://leetcode.com/Harrykp"><img src="https://img.shields.io/badge/dynamic/json?color=FFA116&label=LeetCode%20Solved&query=%24.solved&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2FHarrykp&logo=leetcode&logoColor=FFA116&style=flat" alt="LeetCode"/></a>
 </p>
 
 
