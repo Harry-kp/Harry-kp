@@ -12,9 +12,13 @@
 
 Backend engineer at [BrowserStack](https://browserstack.com) building AI accessibility agents covering 40+ WCAG criteria. I design LLM inference pipelines, ship developer tools in Rust, and contribute to open source infrastructure projects.
 
-```
-P90 latency: 20s → 10.1s | False positives: -64% | GitHub stars: 400+ | Merged PRs: 12 across 8 repos
-```
+<p align="center">
+  <img src="https://img.shields.io/github/stars/Harry-kp?label=Total%20Stars&style=flat&color=00ff88&logo=github" alt="Total Stars"/>
+  <img src="https://img.shields.io/badge/dynamic/json?color=blue&label=Merged%20PRs&query=%24.total_count&url=https%3A%2F%2Fapi.github.com%2Fsearch%2Fissues%3Fq%3Dauthor%253AHarry-kp%2Btype%253Apr%2Bis%253Amerged%2B-user%253AHarry-kp&logo=git&logoColor=white" alt="Merged PRs"/>
+  <img src="https://img.shields.io/badge/P90%20Latency-20s%20→%2010.1s-00ff88?style=flat" alt="Latency"/>
+  <img src="https://img.shields.io/badge/False%20Positives--64%25-00ff88?style=flat" alt="FP Reduction"/>
+  <img src="https://komarev.com/ghpvc/?username=harry-kp&label=Profile%20views&color=00ff88&style=flat" alt="Profile views"/>
+</p>
 
 ---
 
@@ -24,12 +28,14 @@ P90 latency: 20s → 10.1s | False positives: -64% | GitHub stars: 400+ | Merged
 <tr>
 <td width="50%">
 
-### [Vortix](https://github.com/Harry-kp/vortix) — 400+ stars
+### [Vortix](https://github.com/Harry-kp/vortix)
 Terminal UI for WireGuard & OpenVPN. Real-time throughput monitoring, DNS leak detection, kill switch.
 
-`Rust` `Ratatui` `Published on crates.io`
+`Rust` `Ratatui` `crates.io`
 
-Listed in [awesome-ratatui](https://github.com/ratatui/awesome-ratatui) and [awesome-rust](https://github.com/rust-unofficial/awesome-rust)
+[![Stars](https://img.shields.io/github/stars/Harry-kp/vortix?style=flat&color=00ff88&logo=github)](https://github.com/Harry-kp/vortix)
+[![Downloads](https://img.shields.io/crates/d/vortix?style=flat&color=blue&logo=rust)](https://crates.io/crates/vortix)
+[![Version](https://img.shields.io/crates/v/vortix?style=flat&logo=rust)](https://crates.io/crates/vortix)
 
 </td>
 <td width="50%">
@@ -38,6 +44,9 @@ Listed in [awesome-ratatui](https://github.com/ratatui/awesome-ratatui) and [awe
 API client for the terminal. 5MB binary, 50ms cold start. Keyboard-driven, zero telemetry.
 
 `Rust` `TUI` `HTTP`
+
+[![Stars](https://img.shields.io/github/stars/Harry-kp/mercury?style=flat&color=00ff88&logo=github)](https://github.com/Harry-kp/mercury)
+[![Issues](https://img.shields.io/github/issues/Harry-kp/mercury?style=flat&color=blue)](https://github.com/Harry-kp/mercury/issues)
 
 </td>
 </tr>
@@ -49,6 +58,8 @@ BitTorrent client from scratch. Full protocol: bencode, tracker, peer handshakes
 
 `Go` `Networking` `Concurrency`
 
+[![Stars](https://img.shields.io/github/stars/Harry-kp/nebula?style=flat&color=00ff88&logo=github)](https://github.com/Harry-kp/nebula)
+
 </td>
 <td width="50%">
 
@@ -56,6 +67,30 @@ BitTorrent client from scratch. Full protocol: bencode, tracker, peer handshakes
 Visual debugger for Google's Agent-to-Agent protocol. Real-time tracing of inter-agent communication flows.
 
 `Go` `A2A Protocol` `Visualization`
+
+[![Stars](https://img.shields.io/github/stars/Harry-kp/a2a-trace?style=flat&color=00ff88&logo=github)](https://github.com/Harry-kp/a2a-trace)
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### [UPPCL Pro](https://github.com/Harry-kp/uppcl-pro)
+Reverse-engineered UPPCL SMART meter API. RSA-OAEP + AES-256-GCM encryption, runs on Raspberry Pi Zero 2.
+
+`Python` `FastAPI` `Next.js`
+
+[![Stars](https://img.shields.io/github/stars/Harry-kp/uppcl-pro?style=flat&color=00ff88&logo=github)](https://github.com/Harry-kp/uppcl-pro)
+
+</td>
+<td width="50%">
+
+### [AFK](https://github.com/Harry-kp/afk)
+Break reminder for developers. 20-20-20 rule, statistics dashboard, global shortcuts. Under 5MB.
+
+`Rust` `Tauri` `React`
+
+[![Stars](https://img.shields.io/github/stars/Harry-kp/afk?style=flat&color=00ff88&logo=github)](https://github.com/Harry-kp/afk)
 
 </td>
 </tr>
@@ -65,39 +100,50 @@ Visual debugger for Google's Agent-to-Agent protocol. Real-time tracing of inter
 
 ## Open Source Contributions
 
-| Project | What I Did | PR |
-|---------|------------|-----|
-| **Grafana Tempo** | Fixed block builder ignoring global storage config for block and WAL versions | [#6532](https://github.com/grafana/tempo/pull/6532) |
-| **Lima VM** (CNCF) | Fixed `limactl create` to honor `--name` flag | [#4628](https://github.com/lima-vm/lima/pull/4628) |
-| **Cocoindex** | Made LMDB max_dbs and map_size configurable | [#1704](https://github.com/cocoindex-io/cocoindex/pull/1704) |
-| **Maybe Finance** | Currency formatting, decimal support, and more | [4 merged PRs](https://github.com/maybe-finance/maybe/pulls?q=author%3AHarry-kp) |
-| **RubyForGood** | Bug fixes for fosterer workflows | [2 merged PRs](https://github.com/rubyforgood/homeward-tails/pulls?q=author%3AHarry-kp) |
+<!-- Dynamic: auto-updates when new PRs are merged -->
+
+| Project | Contribution | Status |
+|---------|-------------|--------|
+| [![Grafana](https://img.shields.io/badge/Grafana_Tempo-F46800?style=flat&logo=grafana&logoColor=white)](https://github.com/grafana/tempo/pull/6532) | Fixed block builder ignoring global storage config | [![Merged](https://img.shields.io/github/pulls/detail/state/grafana/tempo/6532?style=flat&label=PR%20%236532)](https://github.com/grafana/tempo/pull/6532) |
+| [![Lima](https://img.shields.io/badge/Lima_VM-CNCF-326CE5?style=flat&logo=linux&logoColor=white)](https://github.com/lima-vm/lima/pull/4628) | Fixed `limactl create` honoring `--name` flag | [![Merged](https://img.shields.io/github/pulls/detail/state/lima-vm/lima/4628?style=flat&label=PR%20%234628)](https://github.com/lima-vm/lima/pull/4628) |
+| [![Cocoindex](https://img.shields.io/badge/Cocoindex-000?style=flat&logo=github&logoColor=white)](https://github.com/cocoindex-io/cocoindex/pull/1704) | Made LMDB max_dbs and map_size configurable | [![Merged](https://img.shields.io/github/pulls/detail/state/cocoindex-io/cocoindex/1704?style=flat&label=PR%20%231704)](https://github.com/cocoindex-io/cocoindex/pull/1704) |
+| [![Maybe](https://img.shields.io/badge/Maybe_Finance-000?style=flat&logo=github&logoColor=white)](https://github.com/maybe-finance/maybe/pulls?q=author%3AHarry-kp) | Currency formatting, decimal support | ![PRs](https://img.shields.io/badge/4_merged_PRs-brightgreen?style=flat) |
+| [![RubyForGood](https://img.shields.io/badge/RubyForGood-CC342D?style=flat&logo=ruby&logoColor=white)](https://github.com/rubyforgood/homeward-tails/pulls?q=author%3AHarry-kp) | Fosterer workflow bug fixes | ![PRs](https://img.shields.io/badge/2_merged_PRs-brightgreen?style=flat) |
+
+---
+
+## GitHub Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Harry-kp&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=00ff88&icon_color=00ff88&text_color=c9d1d9&count_private=true" width="49%" alt="GitHub Stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Harry-kp&theme=dark&hide_border=true&background=0d1117&ring=00ff88&fire=00ff88&currStreakLabel=00ff88" width="49%" alt="GitHub Streak"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harry-kp&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=00ff88&text_color=c9d1d9&langs_count=8" width="40%" alt="Top Languages"/>
+</p>
 
 ---
 
 ## Tech Stack
 
-```
-Languages:    Go • Rust • Python • Ruby • TypeScript • C++
-AI/ML:        LLM Pipelines • Prompt Engineering • Gemini • GPT-4 • Claude
-Infra:        Kubernetes • Docker • AWS • GCP • Kafka • Helm
-Data:         PostgreSQL • Redis • Prometheus • Grafana • BigQuery • gRPC
-```
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=go,rust,python,ruby,typescript,cpp,kubernetes,docker,aws,gcp,kafka,postgres,redis,grafana&perline=7" alt="Tech Stack"/>
+</p>
 
 ---
 
 ## Work
 
-| Role | Company | What I Did |
-|------|---------|------------|
+| Role | Company | Impact |
+|------|---------|--------|
 | **Backend Engineer (AI)** | BrowserStack | AI accessibility agents, multi-model LLM pipelines, K8s Kafka consumers |
 | **Senior Software Engineer** | Procol | ERP integrations (SAP/Oracle), form system architecture, RSpec framework |
 
 ---
 
 <p align="center">
-  <a href="https://leetcode.com/Harrykp"><img src="https://img.shields.io/badge/LeetCode-700+_solved-FFA116?style=flat&logo=leetcode&logoColor=black" alt="LeetCode"/></a>
-  <img src="https://komarev.com/ghpvc/?username=harry-kp&label=Profile%20views&color=00ff88&style=flat" alt="Profile views"/>
+  <a href="https://leetcode.com/Harrykp"><img src="https://img.shields.io/badge/dynamic/json?color=FFA116&label=LeetCode&query=%24.solvedProblem&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2FHarrykp&logo=leetcode&logoColor=FFA116&style=flat" alt="LeetCode"/></a>
 </p>
 
 <div align="center">
