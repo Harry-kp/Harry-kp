@@ -1,59 +1,61 @@
-<!-- Animated Header -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Harshit%20Chaudhary&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Backend%20Engineer%20%E2%80%A2%20Distributed%20Systems%20%E2%80%A2%20Open%20Source&descSize=16&descAlignY=52"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Harshit%20Chaudhary&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Backend%20Engineer%20%7C%20Distributed%20Systems%20%26%20AI%20Infrastructure&descSize=16&descAlignY=52"/>
 </div>
 
 <p align="center">
-  <a href="https://harrykp.vercel.app"><img src="https://img.shields.io/badge/Portfolio-harrykp.vercel.app-00ff88?style=for-the-badge" alt="Portfolio"/></a>
-  <a href="https://harrykp.vercel.app/blog"><img src="https://img.shields.io/badge/Blog-Distributed_Systems-0077B5?style=for-the-badge" alt="Blog"/></a>
+  <a href="https://harrykp.vercel.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
   <a href="https://www.linkedin.com/in/harshit-chaudhary-4ab0a01aa/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="https://www.youtube.com/@harrykp007"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/></a>
+  <a href="https://harrykp.vercel.app/blog"><img src="https://img.shields.io/badge/Blog-FF5722?style=for-the-badge&logo=hashnode&logoColor=white" alt="Blog"/></a>
 </p>
 
 ---
 
-Backend engineer at **BrowserStack** building AI-powered test management features. I build developer tools in Rust and Go, write about distributed systems, and contribute to open source.
+Backend engineer at [BrowserStack](https://browserstack.com) building AI accessibility agents covering 40+ WCAG criteria. I design LLM inference pipelines, ship developer tools in Rust, and contribute to open source infrastructure projects.
 
-## What I'm Building
+```
+P90 latency: 20s → 10.1s | False positives: -64% | GitHub stars: 400+ | Merged PRs: 12 across 8 repos
+```
+
+---
+
+## What I Build
 
 <table>
 <tr>
 <td width="50%">
 
-### [Vortix](https://github.com/Harry-kp/vortix)
-**VPN Manager for the Terminal**
+### [Vortix](https://github.com/Harry-kp/vortix) — 400+ stars
+Terminal UI for WireGuard & OpenVPN. Real-time throughput monitoring, DNS leak detection, kill switch.
 
-<img src="https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white"/> <img src="https://img.shields.io/badge/Ratatui-00ff88?style=flat"/> <img src="https://img.shields.io/badge/WireGuard-88171A?style=flat&logo=wireguard&logoColor=white"/>
+`Rust` `Ratatui` `Published on crates.io`
 
-TUI for managing VPN connections with real-time telemetry, IPv6/DNS leak detection, and kill switch. Published on crates.io.
-
-[![Stars](https://img.shields.io/github/stars/Harry-kp/vortix?style=social)](https://github.com/Harry-kp/vortix)
+Listed in [awesome-ratatui](https://github.com/ratatui/awesome-ratatui) and [awesome-rust](https://github.com/rust-unofficial/awesome-rust)
 
 </td>
 <td width="50%">
 
-### [AFK](https://github.com/Harry-kp/afk)
-**Break Reminder for Developers**
+### [Mercury](https://github.com/Harry-kp/mercury)
+API client for the terminal. 5MB binary, 50ms cold start. Keyboard-driven, zero telemetry.
 
-<img src="https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white"/> <img src="https://img.shields.io/badge/Tauri-24C8D8?style=flat&logo=tauri&logoColor=white"/> <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black"/>
-
-Follows the 20-20-20 rule with fullscreen reminders, statistics dashboard, and health exercises. Under 5 MB. [Website](https://afk-app.vercel.app)
-
-[![Stars](https://img.shields.io/github/stars/Harry-kp/afk?style=social)](https://github.com/Harry-kp/afk)
+`Rust` `TUI` `HTTP`
 
 </td>
 </tr>
 <tr>
 <td width="50%">
 
-### [Mercury](https://github.com/Harry-kp/mercury)
-**API Client for Purists**
+### [Nebula](https://github.com/Harry-kp/nebula)
+BitTorrent client from scratch. Full protocol: bencode, tracker, peer handshakes, concurrent downloads, SHA-1 verification.
 
-<img src="https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white"/> <img src="https://img.shields.io/badge/5MB-00ff88?style=flat"/> <img src="https://img.shields.io/badge/<50ms_startup-00ff88?style=flat"/>
+`Go` `Networking` `Concurrency`
 
-Blazing-fast, keyboard-first alternative to Postman. No bloat, no accounts, no telemetry.
+</td>
+<td width="50%">
 
-[![Stars](https://img.shields.io/github/stars/Harry-kp/mercury?style=social)](https://github.com/Harry-kp/mercury)
+### [A2A Trace](https://github.com/Harry-kp/a2a-trace)
+Visual debugger for Google's Agent-to-Agent protocol. Real-time tracing of inter-agent communication flows.
+
+`Go` `A2A Protocol` `Visualization`
 
 </td>
 </tr>
@@ -63,42 +65,40 @@ Blazing-fast, keyboard-first alternative to Postman. No bloat, no accounts, no t
 
 ## Open Source Contributions
 
-- **[Maybe Finance](https://github.com/maybe-finance/maybe)** — Personal finance OS (Ruby on Rails)
-- **[RubyForGood](https://github.com/rubyforgood)** — Open source for social good
-- **[LeetCode](https://github.com/LeetCode-OpenSource)** — Problem solutions and tooling
-
----
-
-## Experience
-
-| Role | Company | Period |
-|------|---------|--------|
-| **Software Engineer — Backend (AI)** | [BrowserStack](https://browserstack.com) | Dec 2024 — Present |
-| **Senior Software Engineer** | [Procol](https://procol.io) | Jun 2022 — Dec 2024 |
-| **Software Engineer Intern** | HashedIn by Deloitte | Jan 2022 — Jun 2022 |
+| Project | What I Did | PR |
+|---------|------------|-----|
+| **Grafana Tempo** | Fixed block builder ignoring global storage config for block and WAL versions | [#6532](https://github.com/grafana/tempo/pull/6532) |
+| **Lima VM** (CNCF) | Fixed `limactl create` to honor `--name` flag | [#4628](https://github.com/lima-vm/lima/pull/4628) |
+| **Cocoindex** | Made LMDB max_dbs and map_size configurable | [#1704](https://github.com/cocoindex-io/cocoindex/pull/1704) |
+| **Maybe Finance** | Currency formatting, decimal support, and more | [4 merged PRs](https://github.com/maybe-finance/maybe/pulls?q=author%3AHarry-kp) |
+| **RubyForGood** | Bug fixes for fosterer workflows | [2 merged PRs](https://github.com/rubyforgood/homeward-tails/pulls?q=author%3AHarry-kp) |
 
 ---
 
 ## Tech Stack
 
-```yaml
-languages: [Go, Rust, Ruby, Python, C++, TypeScript]
-infrastructure: [Kubernetes, Docker, AWS, Redis, PostgreSQL]
-frameworks: [Rails, Next.js, Tauri, gRPC]
-ai_ml: [OpenAI, Claude, Embeddings, LLM Pipelines]
+```
+Languages:    Go • Rust • Python • Ruby • TypeScript • C++
+AI/ML:        LLM Pipelines • Prompt Engineering • Gemini • GPT-4 • Claude
+Infra:        Kubernetes • Docker • AWS • GCP • Kafka • Helm
+Data:         PostgreSQL • Redis • Prometheus • Grafana • BigQuery • gRPC
 ```
 
 ---
 
-## Competitive Programming
+## Work
 
-<p align="center">
-  <a href="https://leetcode.com/Harrykp"><img src="https://img.shields.io/badge/LeetCode-700+_Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/></a>
-  <a href="https://www.codechef.com/users/harrykp"><img src="https://img.shields.io/badge/CodeChef-1900_Rating-brown?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef"/></a>
-  <a href="https://codeforces.com/profile/harry_kp"><img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=Codeforces&logoColor=white" alt="Codeforces"/></a>
-</p>
+| Role | Company | What I Did |
+|------|---------|------------|
+| **Backend Engineer (AI)** | BrowserStack | AI accessibility agents, multi-model LLM pipelines, K8s Kafka consumers |
+| **Senior Software Engineer** | Procol | ERP integrations (SAP/Oracle), form system architecture, RSpec framework |
 
 ---
+
+<p align="center">
+  <a href="https://leetcode.com/Harrykp"><img src="https://img.shields.io/badge/LeetCode-700+_solved-FFA116?style=flat&logo=leetcode&logoColor=black" alt="LeetCode"/></a>
+  <img src="https://komarev.com/ghpvc/?username=harry-kp&label=Profile%20views&color=00ff88&style=flat" alt="Profile views"/>
+</p>
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
