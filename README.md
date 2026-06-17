@@ -47,12 +47,14 @@ API client for the terminal. 5MB binary, 50ms cold start. Keyboard-driven, zero 
 <tr>
 <td width="50%">
 
-### [Nebula](https://github.com/Harry-kp/nebula)
-BitTorrent client from scratch. Full protocol: bencode, tracker, peer handshakes, concurrent downloads, SHA-1 verification.
+### [ApprovalEngine](https://github.com/Harry-kp/approval_engine)
+Multi-tenant approval workflows for Rails. Immutable ledger, JSON-Logic routing, consensus, parallel scatter-gather, delegation, SLA timeouts. No Redis or Sidekiq.
 
-`Go` `Networking` `Concurrency`
+`Ruby` `Rails` `PostgreSQL`
 
-[![Stars](https://img.shields.io/github/stars/Harry-kp/nebula?style=flat&color=00ff88&logo=github)](https://github.com/Harry-kp/nebula)
+[![Stars](https://img.shields.io/github/stars/Harry-kp/approval_engine?style=flat&color=00ff88&logo=github)](https://github.com/Harry-kp/approval_engine)
+[![Downloads](https://img.shields.io/gem/dt/approval_engine?style=flat&color=blue&logo=rubygems)](https://rubygems.org/gems/approval_engine)
+[![Version](https://img.shields.io/gem/v/approval_engine?style=flat&logo=rubygems)](https://rubygems.org/gems/approval_engine)
 
 </td>
 <td width="50%">
