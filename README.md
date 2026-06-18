@@ -23,13 +23,14 @@ Backend engineer at [BrowserStack](https://browserstack.com) building AI accessi
 <td width="50%">
 
 ### [Vortix](https://github.com/Harry-kp/vortix)
-Terminal UI for WireGuard & OpenVPN. Real-time throughput monitoring, DNS leak detection, kill switch.
+Terminal UI for WireGuard & OpenVPN. Real-time throughput monitoring, DNS leak detection, kill switch. Animation engine extracted into [`ratatui-flip-panel`](https://crates.io/crates/ratatui-flip-panel).
 
 `Rust` `Ratatui` `crates.io`
 
 [![Stars](https://img.shields.io/github/stars/Harry-kp/vortix?style=flat&color=00ff88&logo=github)](https://github.com/Harry-kp/vortix)
 [![Downloads](https://img.shields.io/crates/d/vortix?style=flat&color=blue&logo=rust)](https://crates.io/crates/vortix)
 [![Version](https://img.shields.io/crates/v/vortix?style=flat&logo=rust)](https://crates.io/crates/vortix)
+[![flip-panel](https://img.shields.io/crates/v/ratatui-flip-panel?style=flat&color=ff6b6b&label=ratatui-flip-panel&logo=rust)](https://crates.io/crates/ratatui-flip-panel)
 
 </td>
 <td width="50%">
