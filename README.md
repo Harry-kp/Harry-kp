@@ -131,6 +131,20 @@ Break reminder for developers. 20-20-20 rule, statistics dashboard, global short
 
 ---
 
+## How I Work — for your agent
+
+My engineering habits, packaged as [agent skills](https://github.com/Harry-kp/skills). Works in Claude Code, Codex, Cursor, Gemini CLI, Copilot and more.
+
+```sh
+npx skills add Harry-kp/skills
+```
+
+| Skill | What it does |
+|-------|--------------|
+| [`harry-kp-agent-ready-repo`](https://github.com/Harry-kp/skills/tree/main/skills/harry-kp-agent-ready-repo) | Flatten, dedupe to one source of truth, delete dead code, then write a verified CLAUDE.md / AGENTS.md |
+
+---
+
 ## Work
 
 | Role | Company | Impact |
