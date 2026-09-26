@@ -142,6 +142,7 @@ npx skills add Harry-kp/skills
 | Skill | What it does |
 |-------|--------------|
 | [`harry-kp-agent-ready-repo`](https://github.com/Harry-kp/skills/tree/main/skills/harry-kp-agent-ready-repo) | Flatten, dedupe to one source of truth, delete dead code, then write a verified CLAUDE.md / AGENTS.md |
+| [`harry-kp-benchmark-repo-presentation`](https://github.com/Harry-kp/skills/tree/main/skills/harry-kp-benchmark-repo-presentation) | Benchmark your repo's README, docs and community files against one you admire; borrow only what's worth the upkeep |
 
 ---
 
