@@ -35,13 +35,12 @@ Terminal UI for WireGuard & OpenVPN. Real-time throughput monitoring, DNS leak d
 </td>
 <td width="50%">
 
-### [Mercury](https://github.com/Harry-kp/mercury)
-API client for the terminal. 5MB binary, 50ms cold start. Keyboard-driven, zero telemetry.
+### [UPPCL Pro](https://github.com/Harry-kp/uppcl-pro-app)
+Android app for UPPCL smart meters — bill and balance answered first, in-app bill payment, one-tap no-power complaints, Hindi. Built on reverse-engineered UPPCL APIs. iOS on the way.
 
-`Rust` `TUI` `HTTP`
+`React Native` `Expo` `TypeScript`
 
-[![Stars](https://img.shields.io/github/stars/Harry-kp/mercury?style=flat&color=00ff88&logo=github)](https://github.com/Harry-kp/mercury)
-[![Issues](https://img.shields.io/github/issues/Harry-kp/mercury?style=flat&color=blue)](https://github.com/Harry-kp/mercury/issues)
+[![Stars](https://img.shields.io/github/stars/Harry-kp/uppcl-pro-app?style=flat&color=00ff88&logo=github)](https://github.com/Harry-kp/uppcl-pro-app) [![Release](https://img.shields.io/github/v/release/Harry-kp/uppcl-pro-app?style=flat&color=00ff88&label=APK)](https://github.com/Harry-kp/uppcl-pro-app/releases/latest)
 
 </td>
 </tr>
@@ -72,12 +71,13 @@ Visual debugger for Google's Agent-to-Agent protocol. Real-time tracing of inter
 <tr>
 <td width="50%">
 
-### [UPPCL Pro](https://github.com/Harry-kp/uppcl-pro-app)
-Android app for UPPCL smart meters — bill and balance answered first, in-app bill payment, one-tap no-power complaints, Hindi. Built on reverse-engineered UPPCL APIs. iOS on the way.
+### [Mercury](https://github.com/Harry-kp/mercury)
+API client for the terminal. 5MB binary, 50ms cold start. Keyboard-driven, zero telemetry.
 
-`React Native` `Expo` `TypeScript`
+`Rust` `TUI` `HTTP`
 
-[![Stars](https://img.shields.io/github/stars/Harry-kp/uppcl-pro-app?style=flat&color=00ff88&logo=github)](https://github.com/Harry-kp/uppcl-pro-app) [![Release](https://img.shields.io/github/v/release/Harry-kp/uppcl-pro-app?style=flat&color=00ff88&label=APK)](https://github.com/Harry-kp/uppcl-pro-app/releases/latest)
+[![Stars](https://img.shields.io/github/stars/Harry-kp/mercury?style=flat&color=00ff88&logo=github)](https://github.com/Harry-kp/mercury)
+[![Issues](https://img.shields.io/github/issues/Harry-kp/mercury?style=flat&color=blue)](https://github.com/Harry-kp/mercury/issues)
 
 </td>
 <td width="50%">
