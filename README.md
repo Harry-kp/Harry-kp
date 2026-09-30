@@ -72,12 +72,12 @@ Visual debugger for Google's Agent-to-Agent protocol. Real-time tracing of inter
 <tr>
 <td width="50%">
 
-### [UPPCL Pro](https://github.com/Harry-kp/uppcl-pro)
-Reverse-engineered UPPCL SMART meter API. RSA-OAEP + AES-256-GCM encryption, runs on Raspberry Pi Zero 2.
+### [UPPCL Pro](https://github.com/Harry-kp/uppcl-pro-app)
+Android app for UPPCL smart meters — bill and balance answered first, in-app bill payment, one-tap no-power complaints, Hindi. Built on reverse-engineered UPPCL APIs. iOS on the way.
 
-`Python` `FastAPI` `Next.js`
+`React Native` `Expo` `TypeScript`
 
-[![Stars](https://img.shields.io/github/stars/Harry-kp/uppcl-pro?style=flat&color=00ff88&logo=github)](https://github.com/Harry-kp/uppcl-pro)
+[![Stars](https://img.shields.io/github/stars/Harry-kp/uppcl-pro-app?style=flat&color=00ff88&logo=github)](https://github.com/Harry-kp/uppcl-pro-app) [![Release](https://img.shields.io/github/v/release/Harry-kp/uppcl-pro-app?style=flat&color=00ff88&label=APK)](https://github.com/Harry-kp/uppcl-pro-app/releases/latest)
 
 </td>
 <td width="50%">
