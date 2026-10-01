@@ -10,7 +10,7 @@
 | Every Kafka UI wants a broker string and a JAAS file. AWS MSK just wants IAM. | [**kitz**](https://github.com/Harry-kp/kitz): your Kafka desk clerk. Reads `~/.aws`, skips the paperwork. |
 | Postman takes longer to open than my request takes to run. | [**Mercury**](https://github.com/Harry-kp/mercury): a 5 MB API client that opens in 50 ms. Requests are plain files, so git just works. |
 | Every approval flow starts as `approved: true` and ends with an auditor asking questions. | [**approval_engine**](https://github.com/Harry-kp/approval_engine): a Rails gem with a ledger that never forgets who said yes. |
-| My electricity bill was a mystery and the official app wasn't helping. | [**Bijli Saathi**](https://github.com/Harry-kp/uppcl-pro-app): reverse-engineered the meter's API, built the app I wanted. English and हिन्दी. |
+| My electricity bill was a mystery and the official app wasn't helping. | [**UPPCL Pro**](https://github.com/Harry-kp/uppcl-pro-app): reverse-engineered the meter's API, built the app I wanted. English and हिन्दी. |
 | I forget to blink. | [**AFK**](https://github.com/Harry-kp/afk): takes over the screen every 20 minutes. You can skip it. You shouldn't. |
 
 <details>
