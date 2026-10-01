@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="370" viewBox="0 0 880 370" role="img" aria-label="Terminal: whoami, harshit, backend engineer at BrowserStack who teaches LLMs to spot accessibility bugs; projects vortix, kitz, mercury, approval_engine, bijli-saathi, afk">
+<style>.t{font:15px ui-monospace,SFMono-Regular,Menlo,Consolas,monospace;white-space:pre}.o{opacity:0;animation:in .01s forwards}@keyframes in{to{opacity:1}}@keyframes blink{50%{opacity:0}}.cur{animation:in .01s forwards,blink 1s step-end infinite}@keyframes ty0{to{transform:translateX(60px)}}.c0{animation:ty0 0.6s steps(6) 0.5s forwards}@keyframes ty1{to{transform:translateX(250px)}}.c1{animation:ty1 1.4s steps(27) 2.6s forwards}@keyframes ty2{to{transform:translateX(105px)}}.c2{animation:ty2 0.7s steps(11) 5.2s forwards}@keyframes ty3{to{transform:translateX(60px)}}.c3{animation:ty3 0.5s steps(6) 7.2s forwards}</style>
+<rect width="880" height="370" rx="12" fill="#1a1b26"/>
+<rect width="880" height="36" rx="12" fill="#16161e"/><rect y="24" width="880" height="12" fill="#16161e"/>
+<circle cx="22" cy="18" r="6" fill="#f7768e"/><circle cx="42" cy="18" r="6" fill="#e0af68"/><circle cx="62" cy="18" r="6" fill="#9ece6a"/>
+<text class="t" x="440.0" y="23" fill="#565f89" text-anchor="middle" style="font-size:13px">harry@kp: ~</text>
+<text class="t" x="32" y="84"><tspan fill="#9ece6a">❯</tspan> <tspan fill="#c0caf5">whoami</tspan></text>
+<rect class="c0" x="50" y="69" width="72" height="21" fill="#1a1b26"/>
+<text class="t o" style="animation-delay:1.35s" x="32" y="109"><tspan fill="#ff9e64">harshit</tspan><tspan fill="#c0caf5"> · backend engineer @ BrowserStack · I teach LLMs to spot accessibility bugs</tspan></text>
+<text class="t" x="32" y="148"><tspan fill="#9ece6a">❯</tspan> <tspan fill="#c0caf5">ls ~/things-that-annoyed-me</tspan></text>
+<rect class="c1" x="50" y="133" width="262" height="21" fill="#1a1b26"/>
+<text class="t o" style="animation-delay:4.25s" x="32" y="173"><tspan fill="#7aa2f7">vortix/  kitz/  mercury/  approval_engine/  bijli-saathi/  afk/</tspan></text>
+<text class="t" x="32" y="212"><tspan fill="#9ece6a">❯</tspan> <tspan fill="#c0caf5">cat now.txt</tspan></text>
+<rect class="c2" x="50" y="197" width="117" height="21" fill="#1a1b26"/>
+<text class="t o" style="animation-delay:6.15s" x="32" y="237"><tspan fill="#c0caf5">making my electricity bill make sense. in hindi too.</tspan></text>
+<text class="t" x="32" y="276"><tspan fill="#9ece6a">❯</tspan> <tspan fill="#c0caf5">uptime</tspan></text>
+<rect class="c3" x="50" y="261" width="72" height="21" fill="#1a1b26"/>
+<text class="t o" style="animation-delay:7.95s" x="32" y="301"><tspan fill="#9aa5ce">4 years shipping · fueled by chai · 0 electron apps installed</tspan></text>
+<text class="t o" style="animation-delay:8.60s" x="32" y="340"><tspan fill="#9ece6a">❯</tspan></text>
+<rect class="cur" style="animation-delay:8.60s,8.60s;opacity:0" x="50" y="326" width="9" height="18" fill="#c0caf5"/>
+</svg>

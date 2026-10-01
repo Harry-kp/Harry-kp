@@ -1,170 +1,45 @@
-## Hey, I'm Harshit
-
 <p align="center">
-  <a href="https://harrykp.vercel.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
-  <a href="https://www.linkedin.com/in/harshit-chaudhary-4ab0a01aa/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="https://harrykp.vercel.app/blog"><img src="https://img.shields.io/badge/Blog-FF5722?style=for-the-badge&logo=hashnode&logoColor=white" alt="Blog"/></a>
+  <img src="assets/terminal.svg" alt="A terminal session: whoami prints 'harshit, backend engineer at BrowserStack, I teach LLMs to spot accessibility bugs'" width="100%"/>
 </p>
 
-Senior backend engineer at [BrowserStack](https://browserstack.com) building AI accessibility agents. I design LLM inference pipelines, ship developer tools in Rust, and contribute to open source infrastructure projects.
+### Things I built because something annoyed me
 
-**Open to remote / relocation** · [chaudharyharshit9@gmail.com](mailto:chaudharyharshit9@gmail.com)
+| The annoyance | What I did about it |
+|---|---|
+| My VPN client was a black box. Connected? Leaking DNS? No idea. | [**Vortix**](https://github.com/Harry-kp/vortix): a terminal UI that shows everything, live. Now in Homebrew core, which still surprises me. |
+| Every Kafka UI wants a broker string and a JAAS file. AWS MSK just wants IAM. | [**kitz**](https://github.com/Harry-kp/kitz): your Kafka desk clerk. Reads `~/.aws`, skips the paperwork. |
+| Postman takes longer to open than my request takes to run. | [**Mercury**](https://github.com/Harry-kp/mercury): a 5 MB API client that opens in 50 ms. Requests are plain files, so git just works. |
+| Every approval flow starts as `approved: true` and ends with an auditor asking questions. | [**approval_engine**](https://github.com/Harry-kp/approval_engine): a Rails gem with a ledger that never forgets who said yes. |
+| My electricity bill was a mystery and the official app wasn't helping. | [**Bijli Saathi**](https://github.com/Harry-kp/uppcl-pro-app): reverse-engineered the meter's API, built the app I wanted. English and हिन्दी. |
+| I forget to blink. | [**AFK**](https://github.com/Harry-kp/afk): takes over the screen every 20 minutes. You can skip it. You shouldn't. |
 
-<p align="center">
-  <img src="https://img.shields.io/github/stars/Harry-kp?label=Total%20Stars&style=flat&color=00ff88&logo=github" alt="Total Stars"/>
-</p>
+<details>
+<summary><b>Bugs I fixed in other people's code</b></summary>
+<br>
 
----
+- **[Grafana Tempo](https://github.com/grafana/tempo/pull/6532)**: the block builder ignored the storage config you gave it.
+- **[Lima](https://github.com/lima-vm/lima/pull/4628)**: `limactl create --name` ignored `--name`.
+- **[CocoIndex](https://github.com/cocoindex-io/cocoindex/pull/1704)**: LMDB limits were hardcoded; now you pick.
+- **[Maybe Finance](https://github.com/maybe-finance/maybe/pulls?q=author%3AHarry-kp+is%3Amerged)** and **[Ruby for Good](https://github.com/rubyforgood/homeward-tails/pulls?q=author%3AHarry-kp+is%3Amerged)**: six small fixes, from currency formats to letting fosterers actually apply for pets.
 
-## What I Build
+</details>
 
-<table>
-<tr>
-<td width="50%">
+<details>
+<summary><b>Borrow my habits</b></summary>
+<br>
 
-### [Vortix](https://github.com/Harry-kp/vortix)
-Terminal UI for WireGuard & OpenVPN. Real-time throughput monitoring, DNS leak detection, kill switch. Animation engine extracted into [`ratatui-flip-panel`](https://crates.io/crates/ratatui-flip-panel).
-
-`Rust` `Ratatui` `crates.io`
-
-[![Stars](https://img.shields.io/github/stars/Harry-kp/vortix?style=flat&color=00ff88&logo=github)](https://github.com/Harry-kp/vortix)
-[![Downloads](https://img.shields.io/crates/d/vortix?style=flat&color=blue&logo=rust)](https://crates.io/crates/vortix)
-[![Version](https://img.shields.io/crates/v/vortix?style=flat&logo=rust)](https://crates.io/crates/vortix)
-[![flip-panel](https://img.shields.io/crates/v/ratatui-flip-panel?style=flat&color=ff6b6b&label=ratatui-flip-panel&logo=rust)](https://crates.io/crates/ratatui-flip-panel)
-
-</td>
-<td width="50%">
-
-### [UPPCL Pro](https://github.com/Harry-kp/uppcl-pro-app)
-Android app for UPPCL smart meters — bill and balance answered first, in-app bill payment, one-tap no-power complaints, Hindi. Built on reverse-engineered UPPCL APIs. iOS on the way.
-
-`React Native` `Expo` `TypeScript`
-
-[![Stars](https://img.shields.io/github/stars/Harry-kp/uppcl-pro-app?style=flat&color=00ff88&logo=github)](https://github.com/Harry-kp/uppcl-pro-app) [![Release](https://img.shields.io/github/v/release/Harry-kp/uppcl-pro-app?style=flat&color=00ff88&label=APK)](https://github.com/Harry-kp/uppcl-pro-app/releases/latest)
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### [ApprovalEngine](https://github.com/Harry-kp/approval_engine)
-Multi-tenant approval workflows for Rails. Immutable ledger, JSON-Logic routing, consensus, parallel scatter-gather, delegation, SLA timeouts. No Redis or Sidekiq.
-
-`Ruby` `Rails` `PostgreSQL`
-
-[![Stars](https://img.shields.io/github/stars/Harry-kp/approval_engine?style=flat&color=00ff88&logo=github)](https://github.com/Harry-kp/approval_engine)
-[![Downloads](https://img.shields.io/gem/dt/approval_engine?style=flat&color=blue&logo=rubygems)](https://rubygems.org/gems/approval_engine)
-[![Version](https://img.shields.io/gem/v/approval_engine?style=flat&logo=rubygems)](https://rubygems.org/gems/approval_engine)
-
-</td>
-<td width="50%">
-
-### [kitz](https://github.com/Harry-kp/kitz)
-Terminal UI for AWS MSK Kafka with native IAM auth (SASL OAUTHBEARER / SigV4). Hot-switch environments, inspect topics and consumer groups live, `kitz doctor` diagnoses connectivity.
-
-`Rust` `Kafka` `AWS`
-
-[![Stars](https://img.shields.io/github/stars/Harry-kp/kitz?style=flat&color=00ff88&logo=github)](https://github.com/Harry-kp/kitz)
-Visual debugger for Google's Agent-to-Agent protocol. Real-time tracing of inter-agent communication flows.
-
-`Go` `A2A Protocol` `Visualization`
-
-[![Stars](https://img.shields.io/github/stars/Harry-kp/a2a-trace?style=flat&color=00ff88&logo=github)](https://github.com/Harry-kp/a2a-trace)
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### [Mercury](https://github.com/Harry-kp/mercury)
-API client for the terminal. 5MB binary, 50ms cold start. Keyboard-driven, zero telemetry.
-
-`Rust` `TUI` `HTTP`
-
-[![Stars](https://img.shields.io/github/stars/Harry-kp/mercury?style=flat&color=00ff88&logo=github)](https://github.com/Harry-kp/mercury)
-[![Issues](https://img.shields.io/github/issues/Harry-kp/mercury?style=flat&color=blue)](https://github.com/Harry-kp/mercury/issues)
-
-</td>
-<td width="50%">
-
-### [Skills](https://github.com/Harry-kp/skills)
-My engineering habits packaged as agent skills for Claude Code, Codex, Cursor, Gemini CLI and Copilot. One-command install.
-
-`Shell` `AI agents`
-
-[![Stars](https://img.shields.io/github/stars/Harry-kp/skills?style=flat&color=00ff88&logo=github)](https://github.com/Harry-kp/skills)
-Break reminder for developers. 20-20-20 rule, statistics dashboard, global shortcuts. Under 5MB.
-
-`Rust` `Tauri` `React`
-
-[![Stars](https://img.shields.io/github/stars/Harry-kp/afk?style=flat&color=00ff88&logo=github)](https://github.com/Harry-kp/afk)
-
-</td>
-</tr>
-</table>
-
-Also: [AFK](https://github.com/Harry-kp/afk) (Tauri break reminder, on Homebrew) · [A2A Trace](https://github.com/Harry-kp/a2a-trace) (debugger for Google's A2A protocol, WIP)
-
----
-
-## Open Source Contributions
-
-<!-- Dynamic: auto-updates when new PRs are merged -->
-
-| Project | Contribution | Status |
-|---------|-------------|--------|
-| [![Grafana](https://img.shields.io/badge/Grafana_Tempo-F46800?style=flat&logo=grafana&logoColor=white)](https://github.com/grafana/tempo/pull/6532) | Fixed block builder ignoring global storage config | [![Merged](https://img.shields.io/github/pulls/detail/state/grafana/tempo/6532?style=flat&label=PR%20%236532)](https://github.com/grafana/tempo/pull/6532) |
-| [![Lima](https://img.shields.io/badge/Lima_VM-CNCF-326CE5?style=flat&logo=linux&logoColor=white)](https://github.com/lima-vm/lima/pull/4628) | Fixed `limactl create` honoring `--name` flag | [![Merged](https://img.shields.io/github/pulls/detail/state/lima-vm/lima/4628?style=flat&label=PR%20%234628)](https://github.com/lima-vm/lima/pull/4628) |
-| [![Cocoindex](https://img.shields.io/badge/Cocoindex-000?style=flat&logo=github&logoColor=white)](https://github.com/cocoindex-io/cocoindex/pull/1704) | Made LMDB max_dbs and map_size configurable | [![Merged](https://img.shields.io/github/pulls/detail/state/cocoindex-io/cocoindex/1704?style=flat&label=PR%20%231704)](https://github.com/cocoindex-io/cocoindex/pull/1704) |
-| [![Maybe](https://img.shields.io/badge/Maybe_Finance-000?style=flat&logo=github&logoColor=white)](https://github.com/maybe-finance/maybe/pulls?q=author%3AHarry-kp) | Currency formatting, decimal support | ![PRs](https://img.shields.io/badge/4_merged_PRs-brightgreen?style=flat) |
-| [![RubyForGood](https://img.shields.io/badge/RubyForGood-CC342D?style=flat&logo=ruby&logoColor=white)](https://github.com/rubyforgood/homeward-tails/pulls?q=author%3AHarry-kp) | Fosterer workflow bug fixes | ![PRs](https://img.shields.io/badge/2_merged_PRs-brightgreen?style=flat) |
-
----
-
-## GitHub Activity
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Harry-kp&theme=dark&hide_border=true&background=0d1117&ring=00ff88&fire=00ff88&currStreakLabel=00ff88" width="60%" alt="GitHub Streak"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Harry-kp&theme=github_dark" width="32%" alt="Repos per Language"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Harry-kp&theme=github_dark" width="32%" alt="Most Commit Language"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Harry-kp&theme=github_dark&utcOffset=5.5" width="32%" alt="Productive Time"/>
-</p>
-
----
-
-## Tech Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=go,rust,python,ruby,typescript,cpp,kubernetes,docker,aws,gcp,kafka,postgres,redis,grafana&perline=7" alt="Tech Stack"/>
-</p>
-
----
-
-## How I Work — for your agent
-
-My engineering habits, packaged as [agent skills](https://github.com/Harry-kp/skills). Works in Claude Code, Codex, Cursor, Gemini CLI, Copilot and more.
+How I work, packaged as [agent skills](https://github.com/Harry-kp/skills) for Claude Code, Codex, Cursor and friends:
 
 ```sh
 npx skills add Harry-kp/skills
 ```
 
-| Skill | What it does |
-|-------|--------------|
-| [`harry-kp-agent-ready-repo`](https://github.com/Harry-kp/skills/tree/main/skills/harry-kp-agent-ready-repo) | Flatten, dedupe to one source of truth, delete dead code, then write a verified CLAUDE.md / AGENTS.md |
-| [`harry-kp-benchmark-repo-presentation`](https://github.com/Harry-kp/skills/tree/main/skills/harry-kp-benchmark-repo-presentation) | Benchmark your repo's README, docs and community files against one you admire; borrow only what's worth the upkeep |
-| [`harry-kp-distill-session-learnings`](https://github.com/Harry-kp/skills/tree/main/skills/harry-kp-distill-session-learnings) | End a session by writing only the durable, non-obvious lessons into CLAUDE.md / AGENTS.md or a skill |
+</details>
 
----
+### Say hi
 
-## Work
+[blog](https://harrykp.vercel.app/blog) · [linkedin](https://www.linkedin.com/in/harshit-chaudhary-4ab0a01aa/) · [chaudharyharshit9@gmail.com](mailto:chaudharyharshit9@gmail.com)
 
-| Role | Company | Impact |
-|------|---------|--------|
-| **Senior Software Engineer, Backend (AI)** | BrowserStack | AI accessibility agents, multi-model LLM pipelines, K8s Kafka consumers |
-| **Senior Software Engineer** | Procol | Led ERP integrations (SAP/Oracle) into a paid add-on (+25% contract price), form system architecture, RSpec |
+Open an issue on anything here, or tell me what annoys *you*. That's usually how the next project starts.
 
-
-
+<sub>No streak counters, view counters or language pie charts were harmed in the making of this README.</sub>
