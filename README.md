@@ -6,12 +6,12 @@
   <a href="https://harrykp.vercel.app/blog"><img src="https://img.shields.io/badge/Blog-FF5722?style=for-the-badge&logo=hashnode&logoColor=white" alt="Blog"/></a>
 </p>
 
-Backend engineer at [BrowserStack](https://browserstack.com) building AI accessibility agents. I design LLM inference pipelines, ship developer tools in Rust, and contribute to open source infrastructure projects.
+Senior backend engineer at [BrowserStack](https://browserstack.com) building AI accessibility agents. I design LLM inference pipelines, ship developer tools in Rust, and contribute to open source infrastructure projects.
+
+**Open to remote / relocation** · [chaudharyharshit9@gmail.com](mailto:chaudharyharshit9@gmail.com)
 
 <p align="center">
   <img src="https://img.shields.io/github/stars/Harry-kp?label=Total%20Stars&style=flat&color=00ff88&logo=github" alt="Total Stars"/>
-  <img src="https://img.shields.io/badge/dynamic/json?color=blue&label=Merged%20PRs&query=%24.total_count&url=https%3A%2F%2Fapi.github.com%2Fsearch%2Fissues%3Fq%3Dauthor%253AHarry-kp%2Btype%253Apr%2Bis%253Amerged%2B-user%253AHarry-kp&logo=git&logoColor=white" alt="Merged PRs"/>
-  <img src="https://komarev.com/ghpvc/?username=harry-kp&label=Profile%20views&color=00ff88&style=flat" alt="Profile views"/>
 </p>
 
 ---
@@ -59,7 +59,12 @@ Multi-tenant approval workflows for Rails. Immutable ledger, JSON-Logic routing,
 </td>
 <td width="50%">
 
-### [A2A Trace](https://github.com/Harry-kp/a2a-trace)
+### [kitz](https://github.com/Harry-kp/kitz)
+Terminal UI for AWS MSK Kafka with native IAM auth (SASL OAUTHBEARER / SigV4). Hot-switch environments, inspect topics and consumer groups live, `kitz doctor` diagnoses connectivity.
+
+`Rust` `Kafka` `AWS`
+
+[![Stars](https://img.shields.io/github/stars/Harry-kp/kitz?style=flat&color=00ff88&logo=github)](https://github.com/Harry-kp/kitz)
 Visual debugger for Google's Agent-to-Agent protocol. Real-time tracing of inter-agent communication flows.
 
 `Go` `A2A Protocol` `Visualization`
@@ -82,7 +87,12 @@ API client for the terminal. 5MB binary, 50ms cold start. Keyboard-driven, zero 
 </td>
 <td width="50%">
 
-### [AFK](https://github.com/Harry-kp/afk)
+### [Skills](https://github.com/Harry-kp/skills)
+My engineering habits packaged as agent skills for Claude Code, Codex, Cursor, Gemini CLI and Copilot. One-command install.
+
+`Shell` `AI agents`
+
+[![Stars](https://img.shields.io/github/stars/Harry-kp/skills?style=flat&color=00ff88&logo=github)](https://github.com/Harry-kp/skills)
 Break reminder for developers. 20-20-20 rule, statistics dashboard, global shortcuts. Under 5MB.
 
 `Rust` `Tauri` `React`
@@ -92,6 +102,8 @@ Break reminder for developers. 20-20-20 rule, statistics dashboard, global short
 </td>
 </tr>
 </table>
+
+Also: [AFK](https://github.com/Harry-kp/afk) (Tauri break reminder, on Homebrew) · [A2A Trace](https://github.com/Harry-kp/a2a-trace) (debugger for Google's A2A protocol, WIP)
 
 ---
 
@@ -112,7 +124,7 @@ Break reminder for developers. 20-20-20 rule, statistics dashboard, global short
 ## GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Harry-kp&theme=dark&hide_border=true&background=0d1117&ring=00ff88&fire=00ff88&currStreakLabel=00ff88" width="60%" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com/?user=Harry-kp&theme=dark&hide_border=true&background=0d1117&ring=00ff88&fire=00ff88&currStreakLabel=00ff88" width="60%" alt="GitHub Streak"/>
 </p>
 
 <p align="center">
@@ -151,13 +163,8 @@ npx skills add Harry-kp/skills
 
 | Role | Company | Impact |
 |------|---------|--------|
-| **Backend Engineer (AI)** | BrowserStack | AI accessibility agents, multi-model LLM pipelines, K8s Kafka consumers |
-| **Senior Software Engineer** | Procol | ERP integrations (SAP/Oracle), form system architecture, RSpec framework |
+| **Senior Software Engineer, Backend (AI)** | BrowserStack | AI accessibility agents, multi-model LLM pipelines, K8s Kafka consumers |
+| **Senior Software Engineer** | Procol | Led ERP integrations (SAP/Oracle) into a paid add-on (+25% contract price), form system architecture, RSpec |
 
----
-
-<p align="center">
-  <a href="https://leetcode.com/Harrykp"><img src="https://img.shields.io/badge/dynamic/json?color=FFA116&label=LeetCode%20Solved&query=%24.solved&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2FHarrykp&logo=leetcode&logoColor=FFA116&style=flat" alt="LeetCode"/></a>
-</p>
 
 
